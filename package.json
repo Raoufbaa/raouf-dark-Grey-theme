@@ -1,0 +1,21 @@
+{
+  "name": "raouf-dark-Grey-theme",
+  "displayName": "Dark Grey Theme",
+  "description": "Dark Grey Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Grey Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Grey Theme-color-theme.json"
+      }
+    ]
+  }
+}
