@@ -2,7 +2,32 @@
   "name": "raouf-dark-Grey-theme",
   "displayName": "Dark Grey Theme",
   "description": "Dark Grey Theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "RaoufBakhti",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Raoufbaa/raouf-dark-Grey-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "grey theme",
+    "dark grey theme",
+    "dark vibrants color theme",
+    "vibrant color theme",
+    "raouf bakhti",
+    "raoufbakhti",
+    "Raouf Bakhti",
+    "RaoufBakhti",
+    "good viabrant Color theme",
+    "nice theme",
+    "best theme",
+    "ever",
+    "best theme ever",
+    "black theme ",
+    "github theme",
+    "new version"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
