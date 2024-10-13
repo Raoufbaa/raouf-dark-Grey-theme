@@ -115,7 +115,7 @@
     "editorSuggestWidget.selectedBackground": "#1c423cc5",
     "editorHoverWidget.foreground": "#cecece",
     "editorHoverWidget.background": "#17181a",
-    "editorWidget.background": "#17181a",
+    "editorWidget.background": "#00001b",
     "button.background": "#04a1b6f6",
     "button.foreground": "#f0f0f0",
     "button.hoverBackground": "#00bbd4a8",
