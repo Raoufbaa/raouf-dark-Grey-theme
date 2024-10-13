@@ -2,7 +2,7 @@
   "name": "raouf-dark-Grey-theme",
   "displayName": "Midnight Prism",
   "description": "Midnight Prism is a sleek and modern VS Code theme featuring a balanced palette of dark grey, deep blue, dark red/orange, and muted green tones. Designed to be easy on the eyes during long coding sessions, it blends functionality with a professional look, offering just enough contrast to highlight key elements while maintaining a smooth, visually appealing interface. Ideal for developers who prefer a subtle yet impactful design.",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "publisher": "RaoufBakhti",
   "repository": {
     "type": "git",
