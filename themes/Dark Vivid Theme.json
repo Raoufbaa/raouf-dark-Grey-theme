@@ -1,5 +1,5 @@
 {
-  "name": "Dark Grey Theme",
+  "name": "Dark Vivide Theme",
   "colors": {
     "focusBorder": "#535353",
     "terminal.tab.activeBorder": "#ff0000",
@@ -188,7 +188,7 @@
       "name": "punctuation",
       "scope": ["punctuation.definition.tag"],
       "settings": {
-        "foreground": "#15ff00"
+        "foreground": "#0084ff"
       }
     },
     {
@@ -199,7 +199,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#70ff77"
+        "foreground": "#7ea1ff"
       }
     },
     {
@@ -258,7 +258,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#99ff00"
+        "foreground": "#37ae6f"
       }
     },
     {
@@ -339,7 +339,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#c774ff"
+        "foreground": "#74dfff"
       }
     },
     {

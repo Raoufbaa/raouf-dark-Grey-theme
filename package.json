@@ -1,13 +1,14 @@
 {
   "name": "raouf-dark-Grey-theme",
-  "displayName": "Dark Grey Theme",
-  "description": "Dark Grey Theme",
-  "version": "1.0.0",
+  "displayName": "Raouf Themes",
+  "description": "Raouf Themes",
+  "version": "2.2.0",
   "publisher": "RaoufBakhti",
   "repository": {
     "type": "git",
     "url": "https://github.com/Raoufbaa/raouf-dark-Grey-theme"
   },
+  "icon": "icon.png",
   "keywords": [
     "theme",
     "dark theme",
@@ -40,6 +41,11 @@
         "label": "Dark Grey Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark Grey Theme-color-theme.json"
+      },
+      {
+        "label": "Dark Vivid Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Vivid Theme.json"
       }
     ]
   }
