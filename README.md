@@ -3,11 +3,11 @@
 **Midnight Prism** is a sleek, modern dark theme designed to create a visually appealing coding environment. With its carefully balanced color palette and elegant icons, this theme draws inspiration from the calmness of the night sky and the flow of creativity, offering a smooth and vibrant experience for all coders.
 
 <div align="center">
-  <img alt="blue" src="https://github.com/Raoufbaa/raouf-dark-Grey-theme/blob/master/images/Dark%20Blue.png?raw=true" />
-  <img alt="green" src="https://github.com/Raoufbaa/raouf-dark-Grey-theme/blob/master/images/Dark%20Green.png?raw=true" />
-  <img alt="orange" src="https://github.com/Raoufbaa/raouf-dark-Grey-theme/blob/master/images/Dark%20orange.png?raw=true" />
-  <img alt="grey" src="https://github.com/Raoufbaa/raouf-dark-Grey-theme/blob/master/images/Dark%20grey.png?raw=true" />
-  <img alt="black" src="https://raw.githubusercontent.com/Raoufbaa/raouf-dark-Grey-theme/refs/heads/master/images/Black.png?token=GHSAT0AAAAAACWYVYQOIG63ZRC7UDMY5RGAZYMD2DA" />
+  <img alt="blue" src="https://i.imgur.com/Kp17wZ8.png" />
+  <img alt="green" src="https://i.imgur.com/54Xhed9.png" />
+  <img alt="orange" src="https://i.imgur.com/ZZXv7E2.png" />
+  <img alt="grey" src="https://i.imgur.com/KZZ3Pe7.png" />
+  <img alt="black" src="https://i.imgur.com/7FPFl5y.png" />
 </div>
 
 ## ⭐ Key Features
