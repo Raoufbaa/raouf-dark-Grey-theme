@@ -84,6 +84,7 @@
     "pickerGroup.foreground": "#00BCD4",
     "tab.activeBackground": "#292828b4",
     "tab.hoverBackground": "#292828b4",
+    "tab.activeForeground": "#ffffff",
     "tab.inactiveBackground": "#17181ac9",
     "tab.inactiveForeground": "#f0f0f0",
     "tab.unfocusedInactiveForeground": "#00BCD4",
