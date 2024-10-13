@@ -1,35 +1,45 @@
-# Midnight Prism Theme README
+# Midnight Prism Theme
 
-**Midnight Prism** is a sleek and modern dark theme that provides a visually appealing coding environment with its carefully balanced color palette and elegant icons. Inspired by the calmness of the night sky and the flow of creativity, this theme offers a smooth and vibrant experience for all coders.
+**Midnight Prism** is a sleek, modern dark theme designed to create a visually appealing coding environment. With its carefully balanced color palette and elegant icons, this theme draws inspiration from the calmness of the night sky and the flow of creativity, offering a smooth and vibrant experience for all coders.
 
-## Key Features
+<div align="center">
+  <img alt="HTML" src="https://raw.githubusercontent.com/asmraihan/vivid_black_vscode/main/images/html.png" />
+  <img alt="React" src="https://raw.githubusercontent.com/asmraihan/vivid_black_vscode/main/images/react.png" />
+  <img alt="React" src="https://raw.githubusercontent.com/asmraihan/vivid_black_vscode/main/images/react.png" />
+  <img alt="React" src="https://raw.githubusercontent.com/asmraihan/vivid_black_vscode/main/images/react.png" />
+  <img alt="React" src="https://raw.githubusercontent.com/asmraihan/vivid_black_vscode/main/images/react.png" />
+</div>
 
-- **Dark Grey Base**: Establishes a clean, minimalist workspace, allowing other colors to pop.
-- **Vibrant Accents**: Featuring shades of **dark blue**, **red/orange**, and **green** for syntax highlighting and important UI elements.
-- **Moon Icon**: A subtle moon icon added to emphasize the calm, late-night coding vibe of the theme.
-- **Smooth Color Transitions**: Inspired by the natural transitions of twilight, the colors flow seamlessly across the UI.
-- **Additional Color Variants**:
-  - Subtle use of **twilight purple** and **midnight teal** in various UI elements, bringing a more dynamic and engaging experience.
-- Optimized for long coding sessions, with reduced eye strain thanks to balanced contrast and smooth color blending.
+## ⭐ Key Features
 
-## Custom Icons
+- **Dark Grey Base**: Establishes a clean, minimalist workspace that allows vibrant colors to stand out.
+- **Vibrant Accents**: Incorporates shades of **dark blue**, **red/orange**, and **green** for effective syntax highlighting and key UI elements.
+- **Moon Icon**: A subtle moon icon accentuates the tranquil, late-night coding atmosphere of the theme.
+- **Smooth Color Transitions**: Inspired by the natural shifts of twilight, the colors blend seamlessly across the UI for a cohesive look.
+- **Dynamic Color Variants**: Includes touches of **twilight purple** and **midnight teal** in various UI elements, enhancing the overall experience.
+- **Eye-Strain Reduction**: Optimized for long coding sessions with balanced contrast and smooth color blending, reducing eye strain.
 
-The theme includes custom icons such as:
+## 🚀 Installation
 
-- **Moon Icon**: Symbolizing the tranquility of the night and ideal for late-night coding sessions.
-- **Prism Brush Stroke**: Representing the creative flow, with transitions through the theme’s key colors.
+1. Open the Extensions sidebar in VS Code.
+2. Search for **Midnight Prism**.
+3. Click **Install**.
+4. Open the Theme Palette with `Ctrl+K Ctrl+T` (or `⇧ K ⇧ T`).
+5. Select **Color Theme** and choose **Midnight Prism**.
 
-## Working with Markdown
+## 📄 License
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This theme is released under the MIT License.
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+If you find anything missing, please [create an issue](https://github.com/Raoufbaa/raouf-dark-Grey-theme/issues) so I can make the theme as compatible as possible! ❤️
 
-## For more information
+---
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+**Published by**  
+[Raouf](https://github.com/Raoufbaa)
 
-**Enjoy the Midnight Prism experience, with vibrant colors and serene icons!**
+**Check out the GitHub repository** for this theme: [raouf-dark-Grey-theme](https://github.com/Raoufbaa/raouf-dark-Grey-theme)
+
+**Visit my portfolio**: [raoufbakhti.is-a.dev](https://raoufbakhti.is-a.dev/)
+
+### Give a ⭐ if you like it!
