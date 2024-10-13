@@ -2,7 +2,7 @@
   "name": "raouf-dark-Grey-theme",
   "displayName": "Raouf Themes",
   "description": "Raouf Themes",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "publisher": "RaoufBakhti",
   "repository": {
     "type": "git",
@@ -43,9 +43,9 @@
         "path": "./themes/Dark Grey Theme-color-theme.json"
       },
       {
-        "label": "Dark Vivid Theme",
+        "label": "Dark Blue Vivid Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Vivid Theme.json"
+        "path": "./themes/Dark Blue Vivid Theme.json"
       }
     ]
   }

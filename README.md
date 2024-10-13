@@ -1,7 +1,6 @@
 # raouf-dark-Grey-theme README
 
 nice dark grey theme with vibrant color
-tiao3wu72gugmzdpc3mnvfqr46hjbftpmcon3sfwp24vh5sfjvrq
 
 ## Working with Markdown
 
