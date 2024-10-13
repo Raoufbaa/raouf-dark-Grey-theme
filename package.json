@@ -38,7 +38,7 @@
     "new version"
   ],
   "engines": {
-    "vscode": "^1.0.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
