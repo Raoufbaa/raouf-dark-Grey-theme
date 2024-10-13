@@ -3,7 +3,7 @@
 **Midnight Prism** is a sleek, modern dark theme designed to create a visually appealing coding environment. With its carefully balanced color palette and elegant icons, this theme draws inspiration from the calmness of the night sky and the flow of creativity, offering a smooth and vibrant experience for all coders.
 
 <div align="center">
-  <img alt="HTML" src="https://raw.githubusercontent.com/asmraihan/vivid_black_vscode/main/images/html.png" />
+  <img alt="black" src="https://raw.githubusercontent.com/Raoufbaa/raouf-dark-Grey-theme/refs/heads/master/images/Black.png?token=GHSAT0AAAAAACWYVYQOIG63ZRC7UDMY5RGAZYMD2DA" />
   <img alt="React" src="https://raw.githubusercontent.com/asmraihan/vivid_black_vscode/main/images/react.png" />
   <img alt="React" src="https://raw.githubusercontent.com/asmraihan/vivid_black_vscode/main/images/react.png" />
   <img alt="React" src="https://raw.githubusercontent.com/asmraihan/vivid_black_vscode/main/images/react.png" />
