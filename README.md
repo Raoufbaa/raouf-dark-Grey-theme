@@ -3,11 +3,12 @@
 **Midnight Prism** is a sleek, modern dark theme designed to create a visually appealing coding environment. With its carefully balanced color palette and elegant icons, this theme draws inspiration from the calmness of the night sky and the flow of creativity, offering a smooth and vibrant experience for all coders.
 
 <div align="center">
-  <img alt="blue" src="https://i.imgur.com/Kp17wZ8.png" />
-  <img alt="green" src="https://i.imgur.com/54Xhed9.png" />
-  <img alt="orange" src="https://i.imgur.com/ZZXv7E2.png" />
-  <img alt="grey" src="https://i.imgur.com/KZZ3Pe7.png" />
-  <img alt="black" src="https://i.imgur.com/7FPFl5y.png" />
+  <img alt="black" src="https://i.imgur.com/0FLWK4D.png" />
+  <img alt="blue" src="https://i.imgur.com/JaiZ8XM.png" />
+  <img alt="green" src="https://i.imgur.com/JNpoNnu.png" />
+  <img alt="orange" src="https://i.imgur.com/F9zLeXK.png" />
+  <img alt="grey" src="https://i.imgur.com/BwgV11u.png" />
+  <img alt="ubuntu" src="https://i.imgur.com/wU7ICDe.png" />
 </div>
 
 ## ⭐ Key Features
