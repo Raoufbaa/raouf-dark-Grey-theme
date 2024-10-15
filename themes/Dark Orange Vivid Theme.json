@@ -187,7 +187,7 @@
       "name": "punctuation",
       "scope": ["punctuation.definition.tag"],
       "settings": {
-        "foreground": "#15ff00"
+        "foreground": "#7E4100"
       }
     },
     {
@@ -198,7 +198,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#70ff77"
+        "foreground": "#A75600"
       }
     },
     {
@@ -218,7 +218,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other", "support.variable.property.js"],
       "settings": {
-        "foreground": "#ff7221"
+        "foreground": "#1CE1BE"
       }
     },
     {
@@ -338,7 +338,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#c774ff"
+        "foreground": "#02A4FA"
       }
     },
     {

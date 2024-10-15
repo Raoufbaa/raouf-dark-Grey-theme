@@ -170,14 +170,14 @@
       "name": "meta",
       "scope": ["meta.tag"],
       "settings": {
-        "foreground": "#67aeff"
+        "foreground": "#07CBB9"
       }
     },
     {
       "name": "punctuation",
       "scope": ["punctuation.definition.tag"],
       "settings": {
-        "foreground": "#0084ff"
+        "foreground": "#004487"
       }
     },
     {
@@ -188,7 +188,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#7ea1ff"
+        "foreground": "#0089C1"
       }
     },
     {
@@ -328,7 +328,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#74dfff"
+        "foreground": "#0093FF"
       }
     },
     {

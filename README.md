@@ -28,6 +28,14 @@
 4. Open the Theme Palette with `Ctrl+K Ctrl+T` (or `⇧ K ⇧ T`).
 5. Select **Color Theme** and choose **Midnight Prism**.
 
+## ☕ Sponsor / Donate
+
+If you enjoy using this theme and would like to support its development, consider donating or sponsoring. Your support helps keep the project alive and growing!
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/Raoufbaa)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%98%95-orange?style=for-the-badge)](https://www.buymeacoffee.com/raoufbaa)
+
 ## 📄 License
 
 This theme is released under the MIT License.

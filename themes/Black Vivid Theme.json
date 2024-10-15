@@ -44,7 +44,7 @@
     "editorWhitespace.foreground": "#3b3a32",
     "foreground": "#dadada",
     "gitDecoration.ignoredResourceForeground": "#3D4D67",
-    "gitDecoration.modifiedResourceForeground": "#ffffff",
+    "gitDecoration.modifiedResourceForeground": "#757575",
     "gitDecoration.untrackedResourceForeground": "#ffffff",
     "input.background": "#202124",
     "input.border": "#000000",
@@ -109,7 +109,7 @@
     "terminal.border": "#646464",
     "terminalCursor.background": "#fffff",
     "terminal.tab.activeBorder": "#ffffff",
-    "textLink.foreground": "#000000",
+    "textLink.foreground": "#ffffff",
     "titleBar.activeBackground": "#000000",
     "notifications.background": "#000000",
     "menubar.selectionForeground": "#ffffff",
@@ -117,8 +117,8 @@
     "menu.selectionForeground": "#000000",
     "editorRuler.foreground": "#ffffff",
     "editorGutter.modifiedBackground": "#ffffff",
-    "editorGutter.addedBackground": "#ffffff",
-    "editorGutter.deletedBackground": "#ffffff"
+    "editorGutter.addedBackground": "#757575",
+    "editorGutter.deletedBackground": "#757575"
   },
   "tokenColors": [
     {
