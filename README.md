@@ -8,6 +8,7 @@
   <img alt="green" src="https://i.imgur.com/JNpoNnu.png" />
   <img alt="orange" src="https://i.imgur.com/F9zLeXK.png" />
   <img alt="grey" src="https://i.imgur.com/BwgV11u.png" />
+  <img alt="cristal" src="https://i.imgur.com/WEIsPZP.png" />
   <img alt="ubuntu" src="https://i.imgur.com/wU7ICDe.png" />
 </div>
 
