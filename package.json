@@ -1,8 +1,8 @@
 {
   "name": "raouf-dark-grey-theme",
   "displayName": "Midnight Prism",
-  "description": "Midnight Prism is a sleek and modern VS Code theme featuring a balanced palette of dark grey, deep blue, dark red/orange, and muted green tones. Designed to be easy on the eyes during long coding sessions, it blends functionality with a professional look, offering just enough contrast to highlight key elements while maintaining a smooth, visually appealing interface. Ideal for developers who prefer a subtle yet impactful design.",
-  "version": "2.8.5",
+  "description": "Midnight Prism is a sleek, modern VS Code theme collection, designed to provide a comfortable coding experience with a balanced, visually appealing palette. Each theme features dark grey, deep blue, dark red/orange, and muted green tones, creating a professional look that enhances readability while reducing eye strain during extended coding sessions. Ideal for developers who appreciate refined, understated design with just the right amount of contrast.",
+  "version": "2.9.6",
   "publisher": "RaoufBakhti",
   "repository": {
     "type": "git",
@@ -12,45 +12,39 @@
   "license": "MIT",
   "keywords": [
     "Midnight Prism",
-    "Midnight Abyss Theme",
-    "Midnight Deep Ocean Theme",
-    "Midnight Forest Theme",
-    "Midnight Graphite Theme",
-    "Midnight Sunset Theme",
-    "Midnight Ubuntu Theme",
-    "ubuntu theme",
-    "ubuntu",
-    "ubuntu dark",
-    "theme",
-    "orange theme",
-    "black theme",
+    "Vibe",
+    "dark sky",
+    "sky",
+    "Light",
+    "IDX",
     "dark theme",
-    "red theme",
-    "green theme",
-    "blue theme",
-    "shift theme",
-    "grey theme",
-    "dark grey theme",
-    "dark vibrants color theme",
-    "vibrant color theme",
-    "raouf bakhti",
-    "raoufbakhti",
-    "Raouf Bakhti",
+    "VS Code",
+    "vscode themes",
     "RaoufBakhti",
-    "good vibrant color theme",
-    "nice theme",
-    "best theme",
-    "cool theme",
-    "vs code theme",
-    "visual code theme",
-    "ever",
-    "best theme ever",
-    "black theme ",
-    "github theme",
-    "new version"
+    "dark grey",
+    "minimalist theme",
+    "Ubuntu-inspired",
+    "Graphite",
+    "Ocean",
+    "Forest",
+    "Eclipse",
+    "Github",
+    "Vibe theme",
+    "diamond",
+    "emerald",
+    "amethyst",
+    "ruby",
+    "gold",
+    "dark abyss",
+    "dark ocean",
+    "dark forest",
+    "dark sunset",
+    "light diamond",
+    "light emerald",
+    "light"
   ],
   "engines": {
-    "vscode": "^1.80.0"
+    "vscode": "^1.40.0"
   },
   "categories": [
     "Themes"
@@ -58,39 +52,89 @@
   "contributes": {
     "themes": [
       {
-        "label": "Midnight Abyss Theme",
+        "label": "01. Midnight Dark Abyss",
         "uiTheme": "vs-dark",
-        "path": "./themes/Black Vivid Theme.json"
+        "path": "./themes/Midnight Dark Abyss.json"
       },
       {
-        "label": "Midnight Deep Ocean Theme",
+        "label": "02. Midnight Dark Ocean",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Blue Vivid Theme.json"
+        "path": "./themes/Midnight Dark Ocean.json"
       },
       {
-        "label": "Midnight Forest Theme",
+        "label": "03. Midnight Dark Sky",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Green Vivid theme.json"
+        "path": "./themes/Midnight Dark Sky.json"
       },
       {
-        "label": "Midnight Sunset Theme",
+        "label": "04. Midnight Dark Forest",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Orange Vivid Theme.json"
+        "path": "./themes/Midnight Dark Forest.json"
       },
       {
-        "label": "Midnight Graphite Theme",
+        "label": "05. Midnight Dark Sunset",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Grey Theme-color-theme.json"
+        "path": "./themes/Midnight Dark Sunset.json"
       },
       {
-        "label": "Midnight Eclipse",
+        "label": "06. Midnight Vibe Diamond",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Vibe diamond.json"
+      },
+      {
+        "label": "07. Midnight Vibe Emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Vibe emerald.json"
+      },
+      {
+        "label": "08. Midnight Vibe Amethyst",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Vibe amethyst.json"
+      },
+      {
+        "label": "09. Midnight Vibe Ruby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Vibe ruby.json"
+      },
+      {
+        "label": "10. Midnight Vibe Gold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Vibe gold.json"
+      },
+      {
+        "label": "11. Midnight Github",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Github.json"
+      },
+      {
+        "label": "12. Midnight IDX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight IDX.json"
+      },
+      {
+        "label": "13. Midnight Graphite",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Graphite.json"
+      },
+      {
+        "label": "14. Midnight Eclipse",
         "uiTheme": "vs-dark",
         "path": "./themes/Midnight Eclipse.json"
       },
       {
-        "label": "Midnight Ubuntu Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Dark Ubuntu Style.json"
+        "label": "15. Midnight Light Diamond",
+        "uiTheme": "vs",
+        "path": "./themes/Midnight Light Diamond.json"
+      },
+      {
+        "label": "16. Midnight Light Emerald",
+        "uiTheme": "vs",
+        "path": "./themes/Midnight Light emarald.json"
+      },
+      {
+        "label": "17. Midnight Light",
+        "uiTheme": "vs",
+        "path": "./themes/Midnight Light.json"
       }
     ]
   }
