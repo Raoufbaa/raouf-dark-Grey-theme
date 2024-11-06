@@ -1,0 +1,13 @@
+<svg width="30" height="30" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle for the Globe -->
+  <circle cx="11" cy="11" r="10" fill="#025173" />
+
+  <!-- Continents - simplified shapes for a globe effect -->
+  <path d="M6.5 11C6.5 8.5 9 8 10.5 8C12 8 12 10.5 13 11.5C14 12.5 16.5 12.5 16.5 14.5C16.5 16.5 14.5 17 13 16.5C11.5 16 11.5 13.5 10 13C8.5 12.5 6.5 13.5 6.5 11Z" fill="#A1A1AA"/>
+
+  <!-- Additional continent-like details -->
+  <path d="M12 6.5C12.5 6 13.5 5.5 14.5 6C15.5 6.5 15.5 8 15 8.5C14.5 9 13 9 12.5 8.5C12 8 12 7 12 6.5Z" fill="#A1A1AA"/>
+  
+  <!-- Placeholder for additional details or shapes -->
+  <!-- Add any extra details here if needed -->
+</svg>

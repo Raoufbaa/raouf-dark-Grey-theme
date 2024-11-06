@@ -203,7 +203,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#9553ffe5"
+        "foreground": "#51C8C2"
       }
     },
     {
@@ -265,7 +265,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#B7DF67"
       }
     },
     {
@@ -286,7 +286,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#dbd800"
+        "foreground": "#40ECEC"
       }
     },
     {
@@ -348,7 +348,7 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#7e53ce"
+        "foreground": "#008AB9"
       }
     },
     {

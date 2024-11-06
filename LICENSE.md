@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2025/2026] [Raouf Bakhti]
+Copyright (c) [2024/2026] [Raouf Bakhti]
 
 This theme is provided for personal use only. By using this theme, you agree to abide by the terms outlined below. Unauthorized modification, redistribution, or commercial use of this theme is strictly prohibited. The copyright holder retains all rights not expressly granted herein.
 

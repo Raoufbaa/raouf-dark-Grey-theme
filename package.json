@@ -2,8 +2,11 @@
   "name": "raouf-dark-grey-theme",
   "displayName": "Midnight Prism",
   "description": "Midnight Prism is a sleek, modern VS Code theme collection, designed to provide a comfortable coding experience with a balanced, visually appealing palette. Each theme features dark grey, deep blue, dark red/orange, and muted green tones, creating a professional look that enhances readability while reducing eye strain during extended coding sessions. Ideal for developers who appreciate refined, understated design with just the right amount of contrast.",
-  "version": "2.9.6",
+  "version": "3.0.0",
   "publisher": "RaoufBakhti",
+  "author": {
+    "name": "Raouf Bakhti (Raoufbakhti32[at]gmail.com)"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Raoufbaa/raouf-dark-Grey-theme"
@@ -41,10 +44,20 @@
     "dark sunset",
     "light diamond",
     "light emerald",
-    "light"
+    "light",
+    "icon theme",
+    "VS Code icons",
+    "Minimal icons",
+    "Glyph icons",
+    "Midnight icons",
+    "Dawnlight icons",
+    "dark theme icons",
+    "light theme icons",
+    "icon pack",
+    "developer icons"
   ],
   "engines": {
-    "vscode": "^1.40.0"
+    "vscode": "^1.20.0"
   },
   "categories": [
     "Themes"
@@ -102,39 +115,76 @@
         "path": "./themes/Midnight Vibe gold.json"
       },
       {
-        "label": "11. Midnight Github",
+        "label": "11. Midnight Prism Peridot",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Prism Peridot.json"
+      },
+      {
+        "label": "12. Midnight Prism Amber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Prism Amber.json"
+      },
+      {
+        "label": "13. Midnight Prism Github",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Prism Github.json"
+      },
+      {
+        "label": "14. Midnight Github",
         "uiTheme": "vs-dark",
         "path": "./themes/Midnight Github.json"
       },
       {
-        "label": "12. Midnight IDX",
+        "label": "15. Midnight IDX",
         "uiTheme": "vs-dark",
         "path": "./themes/Midnight IDX.json"
       },
       {
-        "label": "13. Midnight Graphite",
+        "label": "16. Midnight Graphite",
         "uiTheme": "vs-dark",
         "path": "./themes/Midnight Graphite.json"
       },
       {
-        "label": "14. Midnight Eclipse",
+        "label": "17. Midnight Eclipse",
         "uiTheme": "vs-dark",
         "path": "./themes/Midnight Eclipse.json"
       },
       {
-        "label": "15. Midnight Light Diamond",
+        "label": "18. Midnight Light Diamond",
         "uiTheme": "vs",
         "path": "./themes/Midnight Light Diamond.json"
       },
       {
-        "label": "16. Midnight Light Emerald",
+        "label": "19. Midnight Light Emerald",
         "uiTheme": "vs",
         "path": "./themes/Midnight Light emarald.json"
       },
       {
-        "label": "17. Midnight Light",
+        "label": "20. Midnight Light",
         "uiTheme": "vs",
         "path": "./themes/Midnight Light.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "clear-icon-theme",
+        "label": "01.Minimal Icon",
+        "path": "./icons/Minimal-icon-theme.json"
+      },
+      {
+        "id": "glyph-icon-theme",
+        "label": "02.Glyph Icon",
+        "path": "./icons/glyph-icon-theme.json"
+      },
+      {
+        "id": "Midnight-icon-theme",
+        "label": "03.Midnight Icon",
+        "path": "./icons/Midnight-icon-theme.json"
+      },
+      {
+        "id": "Dawnlight-icon-theme",
+        "label": "04.Dawnlight Icon (For Light Themes)",
+        "path": "./icons/Dawnlight-icon-theme.json"
       }
     ]
   }

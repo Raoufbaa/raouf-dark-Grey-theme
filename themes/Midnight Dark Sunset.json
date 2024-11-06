@@ -212,7 +212,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#9553ffe5"
+        "foreground": "#ECA640"
       }
     },
     {
@@ -339,7 +339,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#02A4FA"
+        "foreground": "#A55800"
       }
     },
     {
@@ -357,7 +357,7 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#7e53ce"
+        "foreground": "#A55800"
       }
     },
     {

@@ -17,9 +17,9 @@
     }
 </style>
 
-# Midnight Prism Theme
+**Midnight Prism Theme & Icons**
 
-**Midnight Prism** is a sleek, modern dark theme designed to create a visually appealing coding environment. With its carefully balanced color palette and elegant icons, this theme draws inspiration from the calmness of the night sky and the flow of creativity, offering a smooth and vibrant experience for all coders.
+**Midnight Prism** is a sleek, modern dark theme designed to create a visually appealing coding environment. With its carefully balanced color palette and elegant icons, this theme draws inspiration from the calmness of the night sky and the flow of creativity, featuring Glyph icons that are inspired by the Symbols icon theme, offering a smooth and vibrant experience for all coders.
 
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; padding: 20px; position: relative; background: url('data:image/svg+xml,%3Csvg xmlns%3D%22http://www.w3.org/2000/svg%22 viewBox%3D%220 0 800 400%22%3E%3Cpath fill%3D%22%2300c6ff%22 fill-opacity%3D%220.6%22 d%3D%22M0 50L200 150L400 90L600 250L800 100V400H0z%22/%3E%3Cpath fill%3D%22%230072ff%22 fill-opacity%3D%220.4%22 d%3D%22M0 150L200 250L400 190L600 350L800 200V400H0z%22/%3E%3C/svg%3E'); background-size: cover; border-radius: 15px;">
   <div class="triangle"></div>
@@ -34,7 +34,7 @@
   <img alt="emerald" src="https://i.imgur.com/U8vPDdD.png" />
   <img alt="ame" src="https://i.imgur.com/VWAMrIA.png" />
   <img alt="ruby" src="https://i.imgur.com/bpVtg1d.png" />
-  <img alt="gold" src="https://i.imgur.com/LqvEnU5.png" />
+  <img alt="gold" src="https://imgur.com/LqvEnU5.png" />
   <img alt="github" src="https://imgur.com/0pHHeWv.png" />
   <img alt="idx" src="https://imgur.com/45rajcx.png" />
   <img alt="light diamond" src="https://imgur.com/q8JLIhC.png" />
@@ -46,6 +46,7 @@
 
 - **Dark Grey Base**: Establishes a clean, minimalist workspace that allows vibrant colors to stand out.
 - **Vibrant Accents**: Incorporates shades of **dark blue**, **red/orange**, and **green** for effective syntax highlighting and key UI elements.
+- **Elegant Icons**: Uniquely designed icons enhance the aesthetic appeal and functionality of the UI, providing a cohesive and enjoyable coding experience.
 - **Dark and Light Variants**: Offers both dark and light themes, providing flexibility for different lighting conditions and personal preferences, ensuring comfort during coding sessions.
 - **Smooth Color Transitions**: Inspired by the natural shifts of twilight, the colors blend seamlessly across the UI for a cohesive look.
 - **Dynamic Color Variants**: Includes touches of **twilight purple** and **midnight teal** in various UI elements, enhancing the overall experience.
@@ -58,6 +59,10 @@
 3. Click **Install**.
 4. Open the Theme Palette with `Ctrl+K Ctrl+T` (or `⇧ K ⇧ T`).
 5. Select **Color Theme** and choose **Midnight Prism**.
+
+## Acknowledgment
+
+The Glyph Icons Inspired by the [Symbols icon theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols) on the VS Code Marketplace.
 
 ## ☕ Sponsor / Donate
 
@@ -84,4 +89,4 @@ If you find anything missing, please [create an issue](https://github.com/Raoufb
 
 ### Give a ⭐ if you like it!
 
--
+---

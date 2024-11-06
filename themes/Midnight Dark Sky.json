@@ -168,14 +168,31 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#8b89ff"
+        "foreground": "#3BB7D0"
       }
     },
     {
-      "name": "meta",
-      "scope": ["meta.tag"],
+      "name": "Operator, Misc",
+      "scope": [
+        "keyword.control",
+        "constant.other.color",
+        "punctuation.separator.inheritance.php",
+        "punctuation.definition.tag.html",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html",
+        "punctuation.section.embedded",
+        "keyword.other.template",
+        "keyword.other.substitution"
+      ],
       "settings": {
-        "foreground": "#E7F8FF"
+        "foreground": "#3BB7D0"
+      }
+    },
+    {
+      "name": "variable",
+      "scope": ["meta.var.expr.js.jsx"],
+      "settings": {
+        "foreground": "#AFAFAF"
       }
     },
     {
@@ -206,7 +223,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#9553ffe5"
+        "foreground": "#55CFDE"
       }
     },
     {

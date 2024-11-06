@@ -11,7 +11,7 @@
     "activityBar.foreground": "#e7e7e7",
     "button.background": "#00ff37",
     "button.foreground": "#000000",
-    "button.hoverBackground": "#00bbd4a8",
+    "button.hoverBackground": "#93ffa9",
     "breadcrumb.background": "#020c00",
     "breadcrumb.focusForeground": "#00ff37",
     "breadcrumb.foreground": "#e0e0e0",
@@ -209,7 +209,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#9553ffe5"
+        "foreground": "#63F8D4"
       }
     },
     {
@@ -255,7 +255,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#99ff00"
+        "foreground": "#63F8D4"
       }
     },
     {
@@ -292,7 +292,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#dbd800"
+        "foreground": "#89BF0C"
       }
     },
     {
@@ -336,7 +336,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#c774ff"
+        "foreground": "#63F8D4"
       }
     },
     {
@@ -354,7 +354,7 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#7e53ce"
+        "foreground": "#26D2C5"
       }
     },
     {

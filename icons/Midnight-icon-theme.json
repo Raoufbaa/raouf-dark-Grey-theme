@@ -1,0 +1,578 @@
+{
+  "iconDefinitions": {
+    "file_text": {
+      "iconPath": "./Midnight/text_dark.svg"
+    },
+    "file_kotlin": {
+      "iconPath": "./Midnight/kotlin_dark.svg"
+    },
+    "folder": {
+      "iconPath": "./Midnight/folder_dark.svg"
+    },
+    "file_ignored": {
+      "iconPath": "./Midnight/ignored_dark.svg"
+    },
+    "file_css": {
+      "iconPath": "./Midnight/css.svg"
+    },
+    "file_erb": {
+      "iconPath": "./Midnight/erbFile_dark.svg"
+    },
+    "file_scss": {
+      "iconPath": "./Midnight/scss.svg"
+    },
+    "file_json": {
+      "iconPath": "./Midnight/json_dark.svg"
+    },
+    "file_html": {
+      "iconPath": "./Midnight/html5.svg"
+    },
+    "file_react": {
+      "iconPath": "./Midnight/react_dark.svg"
+    },
+    "file_ruby": {
+      "iconPath": "./Midnight/ruby_dark.svg"
+    },
+    "file_rake": {
+      "iconPath": "./Midnight/rakeTask_dark.svg"
+    },
+    "file_gemfile": {
+      "iconPath": "./Midnight/rubyGems_dark.svg"
+    },
+    "file_less": {
+      "iconPath": "./Midnight/less_dark.svg"
+    },
+    "file_javascript": {
+      "iconPath": "./Midnight/javaScript_dark.svg"
+    },
+    "file_typescript": {
+      "iconPath": "./Midnight/typeScript_dark.svg"
+    },
+    "file_csv": {
+      "iconPath": "./Midnight/csv_dark.svg"
+    },
+    "file_vue": {
+      "iconPath": "./Midnight/vueJs.svg"
+    },
+    "file_editorconfig": {
+      "iconPath": "./Midnight/editorConfig_dark.svg"
+    },
+    "file_image": {
+      "iconPath": "./Midnight/image_dark.svg"
+    },
+    "file_font": {
+      "iconPath": "./Midnight/font_dark.svg"
+    },
+    "file_yaml": {
+      "iconPath": "./Midnight/yaml_dark.svg"
+    },
+    "file_java": {
+      "iconPath": "./Midnight/java_dark.svg"
+    },
+    "file_xml": {
+      "iconPath": "./Midnight/xml_dark.svg"
+    },
+    "file_sql": {
+      "iconPath": "./Midnight/sql_dark.svg"
+    },
+    "file_slim": {
+      "iconPath": "./Midnight/slim_dark.svg"
+    },
+    "file_sln": {
+      "iconPath": "./Midnight/solution_dark.svg"
+    },
+    "file_yarn": {
+      "iconPath": "./Midnight/yarn.svg"
+    },
+    "file_markdown": {
+      "iconPath": "./Midnight/markdown_dark.svg"
+    },
+    "file_gitignore": {
+      "iconPath": "./Midnight/gitignore.svg"
+    },
+    "file_gleam": {
+      "iconPath": "./Midnight/gleam_dark.svg"
+    },
+    "file_properties": {
+      "iconPath": "./Midnight/properties_dark.svg"
+    },
+    "file_shell": {
+      "iconPath": "./Midnight/shell_dark.svg"
+    },
+    "file_h": {
+      "iconPath": "./Midnight/h_dark.svg"
+    },
+    "file_c": {
+      "iconPath": "./Midnight/c_dark.svg"
+    },
+    "file_cpp": {
+      "iconPath": "./Midnight/cpp_dark.svg"
+    },
+    "file_scala": {
+      "iconPath": "./Midnight/scala_dark.svg"
+    },
+    "file_archive": {
+      "iconPath": "./Midnight/archive_dark.svg"
+    },
+    "file_toml": {
+      "iconPath": "./Midnight/toml_dark.svg"
+    },
+    "file_python": {
+      "iconPath": "./Midnight/python.svg"
+    },
+    "file_terraform": {
+      "iconPath": "./Midnight/terraform_dark.svg"
+    },
+    "file_go": {
+      "iconPath": "./Midnight/go_dark.svg"
+    },
+    "file_gomodsum": {
+      "iconPath": "./Midnight/gomodsum.svg"
+    },
+    "file_http": {
+      "iconPath": "./Midnight/http_dark.svg"
+    },
+    "file_dart": {
+      "iconPath": "./Midnight/dart_dark.svg"
+    },
+    "file_docker": {
+      "iconPath": "./Midnight/docker_dark.svg"
+    },
+    "file_actionscript": {
+      "iconPath": "./Midnight/actionScript_dark.svg"
+    },
+    "file_php": {
+      "iconPath": "./Midnight/php_dark.svg"
+    },
+    "file_makefile": {
+      "iconPath": "./Midnight/makefile_dark.svg"
+    },
+    "file_config": {
+      "iconPath": "./Midnight/config_dark.svg"
+    },
+    "file_any": {
+      "iconPath": "./Midnight/anyType_dark.svg"
+    },
+    "file_svelte": {
+      "iconPath": "./Midnight/svelte.svg"
+    },
+    "file_rust": {
+      "iconPath": "./Midnight/rustFile_dark.svg"
+    },
+    "file_cargo": {
+      "iconPath": "./Midnight/cargo_dark.svg"
+    },
+    "file_cargolock": {
+      "iconPath": "./Midnight/cargoLock_dark.svg"
+    },
+    "file_cmake": {
+      "iconPath": "./Midnight/CMake_dark.svg"
+    },
+    "file_pnpm": {
+      "iconPath": "./Midnight/pnpm_dark.svg"
+    },
+    "file_tailwind": {
+      "iconPath": "./Midnight/tailwind.svg"
+    },
+    "file_vite": {
+      "iconPath": "./Midnight/vite_dark.svg"
+    },
+    "file_postcss": {
+      "iconPath": "./Midnight/postcss.svg"
+    },
+    "file_angular": {
+      "iconPath": "./Midnight/angularrenaissance_dark.svg"
+    },
+    "file_eslint": {
+      "iconPath": "./Midnight/eslint.svg"
+    },
+    "file_cs": {
+      "iconPath": "./Midnight/cs_dark.svg"
+    },
+    "file_cshtml": {
+      "iconPath": "./Midnight/cshtml_dark.svg"
+    },
+    "file_csproj": {
+      "iconPath": "./Midnight/csproj_dark.svg"
+    },
+    "file_elixir": {
+      "iconPath": "./Midnight/elixir_dark.svg"
+    },
+    "file_beam": {
+      "iconPath": "./Midnight/beam.svg"
+    },
+    "file_embedded_elixir": {
+      "iconPath": "./Midnight/eex_dark.svg"
+    },
+    "file_swift": {
+      "iconPath": "./Midnight/swift.svg"
+    },
+    "file_clojure": {
+      "iconPath": "./Midnight/clojure.svg"
+    },
+    "file_ml": {
+      "iconPath": "./Midnight/ml.svg"
+    },
+    "file_mli": {
+      "iconPath": "./Midnight/mli.svg"
+    },
+    "file_dune": {
+      "iconPath": "./Midnight/dune.svg"
+    },
+    "file_opam": {
+      "iconPath": "./Midnight/opam.svg"
+    },
+    "file_protobuf": {
+      "iconPath": "./Midnight/protobuf.svg"
+    },
+    "file_hcl": {
+      "iconPath": "./Midnight/hcl_dark.svg"
+    },
+    "file_rego": {
+      "iconPath": "./Midnight/rego.svg"
+    },
+    "file_application": {
+      "iconPath": "./Midnight/application_dark.svg"
+    },
+    "file_jupyter": {
+      "iconPath": "./Midnight/jupyter.svg"
+    },
+    "file_mdx": {
+      "iconPath": "./Midnight/mdx.svg"
+    },
+    "file_erlang": {
+      "iconPath": "./Midnight/erlang.svg"
+    },
+    "file_lua": {
+      "iconPath": "./Midnight/lua.svg"
+    },
+    "file_haskell": {
+      "iconPath": "./Midnight/haskell.svg"
+    },
+    "file_graphql": {
+      "iconPath": "./Midnight/graphql.svg"
+    },
+    "file_buildprops": {
+      "iconPath": "./Midnight/projectProperties_dark.svg"
+    },
+    "file_nestadpter": {
+      "iconPath": "./Midnight/nestjsadapter_dark.svg"
+    },
+    "file_nestcontroller": {
+      "iconPath": "./Midnight/nestjscontroller_dark.svg"
+    },
+    "file_nestcontrollertest": {
+      "iconPath": "./Midnight/nestjscontrollertest_dark.svg"
+    },
+    "file_nestjs": {
+      "iconPath": "./Midnight/nestjsdark.svg"
+    },
+    "file_nestdecorator": {
+      "iconPath": "./Midnight/nestjsdecorator_dark.svg"
+    },
+    "file_nestdto": {
+      "iconPath": "./Midnight/nestjsdto_dark.svg"
+    },
+    "file_nestentity": {
+      "iconPath": "./Midnight/nestjsentity_dark.svg"
+    },
+    "file_nestfilter": {
+      "iconPath": "./Midnight/nestjsfilter_dark.svg"
+    },
+    "file_nestgateway": {
+      "iconPath": "./Midnight/nestjsgateway_dark.svg"
+    },
+    "file_nestguard": {
+      "iconPath": "./Midnight/nestjsguard_dark.svg"
+    },
+    "file_nestinterceptor": {
+      "iconPath": "./Midnight/nestjsinterceptor_dark.svg"
+    },
+    "file_nestmiddleware": {
+      "iconPath": "./Midnight/nestjsmiddleware_dark.svg"
+    },
+    "file_nestmodel": {
+      "iconPath": "./Midnight/nestjsmodel_dark.svg"
+    },
+    "file_nestmodule": {
+      "iconPath": "./Midnight/nestjsmodule_dark.svg"
+    },
+    "file_nestpipe": {
+      "iconPath": "./Midnight/nestjspipe_dark.svg"
+    },
+    "file_nestservice": {
+      "iconPath": "./Midnight/nestjsservice_dark.svg"
+    },
+    "file_nestservicetest": {
+      "iconPath": "./Midnight/nestjsservice_dark.svg"
+    },
+    "file_angularcomponent": {
+      "iconPath": "./Midnight/angularcomponent_dark.svg"
+    },
+    "file_angularcomponenttest": {
+      "iconPath": "./Midnight/angularcomponenttest_dark.svg"
+    },
+    "file_angularmodule": {
+      "iconPath": "./Midnight/angularmodule_dark.svg"
+    },
+    "file_angularmoduletest": {
+      "iconPath": "./Midnight/angularmoduletest_dark.svg"
+    },
+    "file_angularpipe": {
+      "iconPath": "./Midnight/angularpipe_dark.svg"
+    },
+    "file_angularpipetest": {
+      "iconPath": "./Midnight/angularpipetest_dark.svg"
+    },
+    "file_angularservice": {
+      "iconPath": "./Midnight/angularservice_dark.svg"
+    },
+    "file_angularservicetest": {
+      "iconPath": "./Midnight/angularservicetest_dark.svg"
+    },
+    "file_angularguard": {
+      "iconPath": "./Midnight/angularguard_dark.svg"
+    },
+    "file_angularguardtest": {
+      "iconPath": "./Midnight/angularguardtest_dark.svg"
+    },
+    "file_angularresolver": {
+      "iconPath": "./Midnight/angularresolver_dark.svg"
+    },
+    "file_angularresolvertest": {
+      "iconPath": "./Midnight/angularresolvertest_dark.svg"
+    },
+    "file_angulardirective": {
+      "iconPath": "./Midnight/angulardirective_dark.svg"
+    },
+    "file_angulardirectivetest": {
+      "iconPath": "./Midnight/angulardirectivetest_dark.svg"
+    },
+    "file_angularcontroller": {
+      "iconPath": "./Midnight/angularcontroller_dark.svg"
+    },
+    "file_angularcontrollertest": {
+      "iconPath": "./Midnight/angularcontrollertest_dark.svg"
+    }
+  },
+  "file": "file_text",
+  "folder": "folder",
+  "folderNames": {},
+  "fileNames": {
+    "dune": "file_dune",
+    "dune-projecT": "file_dune",
+    ".gitignore": "file_gitignore",
+    ".gitattributes": "file_gitignore",
+    ".gitmodules": "file_gitignore",
+    ".gitkeep": "file_gitignore",
+    ".editorconfig": "file_editorconfig",
+    ".yarnrc": "file_yarn",
+    "yarn.lock": "file_yarn",
+    "README": "file_markdown",
+    ".dockerignore": "file_ignored",
+    "Dockerfile": "file_docker",
+    "Dockerfile.dev": "file_docker",
+    "Dockerfile.test": "file_docker",
+    "Dockerfile.staging": "file_docker",
+    "Dockerfile.prod": "file_docker",
+    "Dockerfile.production": "file_docker",
+    "Gemfile": "file_gemfile",
+    "Gemfile.lock": "file_gemfile",
+    "Makefile": "file_makefile",
+    ".env": "file_any",
+    ".env.local": "file_any",
+    ".env.test": "file_any",
+    ".env.example": "file_any",
+    ".env.development": "file_any",
+    ".env.production": "file_any",
+    ".env.test.local": "file_any",
+    ".env.development.local": "file_any",
+    ".env.production.local": "file_any",
+    "Cargo.toml": "file_cargo",
+    "rust-toolchain.toml": "file_cargo",
+    "Cargo.lock": "file_cargolock",
+    "CMakeLists.txt": "file_cmake",
+    "pnpm-lock.yaml": "file_pnpm",
+    "pnpm-workspace.yaml": "file_pnpm",
+    "tailwind.config.js": "file_tailwind",
+    "tailwind.config.cjs": "file_tailwind",
+    "tailwind.config.ts": "file_tailwind",
+    "vite.config.js": "file_vite",
+    "vite.config.cjs": "file_vite",
+    "vite.config.ts": "file_vite",
+    "postcss.config.js": "file_postcss",
+    "postcss.config.cjs": "file_postcss",
+    "postcss.config.ts": "file_postcss",
+    "angular.json": "file_angular",
+    ".eslintrc": "file_eslint",
+    ".eslintrc.cjs": "file_eslint",
+    ".eslintrc.js": "file_eslint",
+    ".eslintrc.ts": "file_eslint",
+    ".eslintrc.json": "file_eslint",
+    ".eslintrc.yml": "file_eslint",
+    ".eslintrc.yaml": "file_eslint",
+    ".eslintignore": "file_eslint",
+    "go.mod": "file_gomodsum",
+    "go.sum": "file_gomodsum",
+    "Directory.Build.props": "file_buildprops",
+    "nest-cli.json": "file_nestjs",
+    "nestconfig.json": "file_nestjs",
+    ".nest-cli.json": "file_nestjs",
+    ".nestconfig.json": "file_nestjs"
+  },
+  "fileExtensions": {
+    "ml": "file_ml",
+    "mli": "file_mli",
+    "opam": "file_opam",
+    "css": "file_css",
+    "dart": "file_dart",
+    "erb": "file_erb",
+    "scss": "file_scss",
+    "sass": "file_scss",
+    "kt": "file_kotlin",
+    "json": "file_json",
+    "html": "file_html",
+    "jsx": "file_react",
+    "tsx": "file_react",
+    "rake": "file_rake",
+    "rb": "file_ruby",
+    "less": "file_less",
+    "js": "file_javascript",
+    "cjs": "file_javascript",
+    "mjs": "file_javascript",
+    "ts": "file_typescript",
+    "cts": "file_typescript",
+    "mts": "file_typescript",
+    "csv": "file_csv",
+    "vue": "file_vue",
+    "png": "file_image",
+    "webp": "file_image",
+    "jpg": "file_image",
+    "jpeg": "file_image",
+    "gif": "file_image",
+    "gleam": "file_gleam",
+    "ico": "file_image",
+    "svg": "file_image",
+    "ttf": "file_font",
+    "woff": "file_font",
+    "oft": "file_font",
+    "eot": "file_font",
+    "yaml": "file_yaml",
+    "yml": "file_yaml",
+    "java": "file_java",
+    "xml": "file_xml",
+    "sql": "file_sql",
+    "md": "file_markdown",
+    "properties": "file_properties",
+    "sh": "file_shell",
+    "zsh": "file_shell",
+    "bash": "file_shell",
+    "bat": "file_shell",
+    "ps1": "file_shell",
+    "h": "file_h",
+    "hh": "file_h",
+    "hpp": "file_h",
+    "hxx": "file_h",
+    "c": "file_c",
+    "cc": "file_cpp",
+    "cpp": "file_cpp",
+    "cxx": "file_cpp",
+    "ccm": "file_cpp",
+    "cxxm": "file_cpp",
+    "cppm": "file_cpp",
+    "c++m": "file_cpp",
+    "ixx": "file_cpp",
+    "scala": "file_scala",
+    "gz": "file_archive",
+    "zip": "file_archive",
+    "rar": "file_archive",
+    "7z": "file_archive",
+    "tar": "file_archive",
+    "toml": "file_toml",
+    "py": "file_python",
+    "pyi": "file_python",
+    "pyc": "file_python",
+    "tf": "file_terraform",
+    "go": "file_go",
+    "http": "file_http",
+    "rest": "file_http",
+    "as": "file_actionscript",
+    "php": "file_php",
+    "cfg": "file_config",
+    "conf": "file_config",
+    "config": "file_config",
+    "cnf": "file_config",
+    "svelte": "file_svelte",
+    "slim": "file_slim",
+    "sln": "file_sln",
+    "rs": "file_rust",
+    "cs": "file_cs",
+    "cshtml": "file_cshtml",
+    "csproj": "file_csproj",
+    "ex": "file_elixir",
+    "exs": "file_elixir",
+    "eex": "file_embedded_elixir",
+    "heex": "file_embedded_elixir",
+    "leex": "file_embedded_elixir",
+    "beam": "file_beam",
+    "dockerfile": "file_docker",
+    "swift": "file_swift",
+    "cljc": "file_clojure",
+    "cljs": "file_clojure",
+    "clj": "file_clojure",
+    "edn": "file_clojure",
+    "proto": "file_protobuf",
+    "hcl": "file_hcl",
+    "rego": "file_rego",
+    "exe": "file_application",
+    "ipynb": "file_jupyter",
+    "mdx": "file_mdx",
+    "erl": "file_erlang",
+    "lua": "file_lua",
+    "hs": "file_haskell",
+    "graphql": "file_graphql",
+    "module.ts": "file_angularmodule",
+    "adapter.ts": "file_nestadpter",
+    "controller.ts": "file_angularcontroller",
+    "controller.spec.ts": "file_angularcontrollertest",
+    "service.ts": "file_angularservice",
+    "service.spec.ts": "file_angularservicetest",
+    "dto.ts": "file_nestdto",
+    "entity.ts": "file_nestentity",
+    "filter.ts": "file_nestfilter",
+    "gateway.ts": "file_nestgateway",
+    "guard.ts": "file_angularguard",
+    "interceptor.ts": "file_nestinterceptor",
+    "middleware.ts": "file_nestmiddleware",
+    "model.ts": "file_nestmodel",
+    "pipe.ts": "file_angularpipe",
+    "decorator.ts": "file_nestdecorator",
+    "module.js": "file_angularmodule",
+    "adapter.js": "file_nestadpter",
+    "controller.js": "file_angularcontroller",
+    "controller.spec.js": "file_angularcontrollertest",
+    "service.js": "file_angularservice",
+    "service.spec.js": "file_angularservicetest",
+    "dto.js": "file_nestdto",
+    "entity.js": "file_nestentity",
+    "filter.js": "file_nestfilter",
+    "gateway.js": "file_nestgateway",
+    "guard.js": "file_angularguard",
+    "interceptor.js": "file_nestinterceptor",
+    "middleware.js": "file_nestmiddleware",
+    "model.js": "file_nestmodel",
+    "pipe.js": "file_angularpipe",
+    "decorator.js": "file_nestdecorator",
+    "component.ts": "file_angularcomponent",
+    "component.spec.ts": "file_angularcomponenttest",
+    "directive.ts": "file_angulardirective",
+    "directive.spec.ts": "file_angulardirectivetest",
+    "resolver.ts": "file_angularresolver",
+    "resolver.spec.ts": "file_angularresolvertest",
+    "component.spec.js": "file_angularcomponenttest",
+    "directive.js": "file_angulardirective",
+    "directive.spec.js": "file_angulardirectivetest",
+    "resolver.js": "file_angularresolver",
+    "resolver.spec.js": "file_angularresolvertest"
+  }
+}
